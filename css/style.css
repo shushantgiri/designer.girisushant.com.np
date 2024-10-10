@@ -839,7 +839,6 @@ button {
 .contact_section {
     width: 100%;
     float: left;
-    padding-bottom: 90px;
 }
 
 .contact_taital {
@@ -919,6 +918,7 @@ textarea#comment.massage-bt::placeholder {
     display: block;
     font-weight: bold;
     border-radius: 5px;
+    margin-bottom: 80px;
 }
 
 .send_bt a:hover {
